@@ -1,3 +1,15 @@
+## 2022-12-20(화)
+1. 20221220_part2
+- 데이터프레임을 엑셀로 저장. 
+-> writer = pd.ExcelWriter('./data/df_sample_2.xlsx')
+
+2. 20221220_part3
+
+3. numpy
+
+4. 20221220_part4
+- matplotlib 사용법 연습
+
 ## 2022-12-19(월)
 1. pandas 라이브러리 사용방법 연습
 
