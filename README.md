@@ -1,3 +1,26 @@
+## 2022-12-23(금)
+1. 데이터 프레임의 다양한 응용
+- df.apply(axis=0 , 1)
+- df.applymap()
+- df.pipe()
+
+2. 열의 재구성
+- isin()
+
+3. 데이터프레임 합치기
+- concat()
+- merge(on='결합조건')
+- join
+
+4. 그룹 연산
+- groupby()
+- agg()
+- transform(), apply()
+- filter()
+
+5. 피벗테이블
+- pd.pivot_table()
+
 ## 2022-12-22(목)
 1. folium 라이브러리 (지도 활용)
 
